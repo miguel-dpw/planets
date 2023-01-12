@@ -2,3 +2,4 @@ Mars is a planet
 
 Has marsquakes
 and two moons
+and a thin atmosphere
