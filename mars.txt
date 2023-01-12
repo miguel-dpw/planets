@@ -1,2 +1,4 @@
 Mars is a planet
-two moons
+
+Has marsquakes
+and two moons
